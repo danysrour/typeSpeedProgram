@@ -7,6 +7,10 @@ Speed Typing script written in python.
 Very Easy, Easy, Medium, Hard and Very Hard. 
 
 Keep tracks of your score
+
+**Libraries used:** 
+
+Tkinter - Wonderwords - Time
  
 # Usage
 

@@ -14,7 +14,7 @@ Simply run the main file
 
 # Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on [GitHub](https://github.com/danysrour/MorseCode).
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on [GitHub](https://github.com/danysrour/typeSpeedProgram).
 
 # License
 
